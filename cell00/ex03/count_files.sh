@@ -1,1 +1,1 @@
-find . -maxdepth 1 ! -name ".*" | wc -l
+ls -1 | wc -l
